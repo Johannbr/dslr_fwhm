@@ -1,3 +1,11 @@
-.settings
-bin
-gen
+/.gradle/
+/.idea/
+/build/
+/gradle/
+build.gradle
+gradlew
+gradlew.bat
+import-summary.txt
+local.properties
+remoteyourcam-usb-master1.iml
+settings.gradle
