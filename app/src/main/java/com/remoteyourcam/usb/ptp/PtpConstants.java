@@ -329,6 +329,8 @@ public class PtpConstants {
         public static final int EosEvfMode = 0xD1B3;
         public static final int EosEvfWhitebalance = 0xD1B4;
         public static final int EosEvfColorTemperature = 0xD1B6;
+        public static final int EosUnknown_Zoom = 0x9158;
+        public static final int EosUnknown_ZoomPosition = 0x9159;
 
         // Nikon
         public static final int NikonShutterSpeed = 0xD100;
