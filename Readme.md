@@ -1,4 +1,4 @@
-# Application for Android to help people who love astrophotography to make focus
+# Android app to help people who love astrophotography to make focus
 
 ## In progress...
 
